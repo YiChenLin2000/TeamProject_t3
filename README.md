@@ -15,4 +15,4 @@ This class was added to benchmark the performance of the web crawler, comparing 
 ### 2. final_project_test Folder(under src/test/java/edu/neu/coe/info6205)
 
 #### -- WebCrawlerTest.java: 
-The test class used to mock interactions with Neo4j and verify that URLs are processed correctly. It ensures that methods such as saveUrlToGraph() and saveLinkToGraph() are being called properly.
+The test class used to mock interactions with Neo4j and verify that URLs are processed correctly. It ensures that methods are being called properly.
